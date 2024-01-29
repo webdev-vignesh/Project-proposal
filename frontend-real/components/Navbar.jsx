@@ -5,7 +5,7 @@ import   Search   from '../components/Search';
 import styles from '../styles';
 import Sidebar from '../components/Sidebar';
 import { navVariants } from '../utils/motion';
-import Sidebar from './sidebar';
+// import Sidebar from './sidebar';
 
 
 const Navbar = () => (
